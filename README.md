@@ -3,8 +3,8 @@ A quick web scraping demo for BTG Analytics.
 
 ## Requirements
 
-- Scrapy
+- [Scrapy](https://scrapy.org/)
 
 ## Execution
 
-To run the spider: ```scrapy runspider scrape.py```
+To Run: ```scrapy runspider scrape.py```
