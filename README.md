@@ -7,4 +7,4 @@ A quick web scraping demo for BTG Analytics.
 
 ## Execution
 
-To Run: ```scrapy runspider scrape.py```
+```scrapy runspider scrape.py```
