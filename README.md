@@ -1,6 +1,10 @@
 # S19-WebScrapingDemo
 A quick web scraping demo for BTG Analytics.
 
-To run the spider:
+## Requirements
 
-```scrapy runspider scrape.py```
+- Scrapy
+
+## Execution
+
+To run the spider: ```scrapy runspider scrape.py```
